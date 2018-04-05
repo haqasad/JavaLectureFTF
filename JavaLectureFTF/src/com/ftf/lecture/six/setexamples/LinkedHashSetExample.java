@@ -1,4 +1,4 @@
-package com.examples.six.setexamples;
+package com.ftf.lecture.six.setexamples;
 
 import java.util.LinkedHashSet;
 import java.util.Set;

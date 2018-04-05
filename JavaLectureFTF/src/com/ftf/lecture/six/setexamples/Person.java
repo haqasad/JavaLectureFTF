@@ -1,4 +1,4 @@
-package com.examples.six.setexamples;
+package com.ftf.lecture.six.setexamples;
 
 public class Person implements Comparable<Person> {
 	private String name;
