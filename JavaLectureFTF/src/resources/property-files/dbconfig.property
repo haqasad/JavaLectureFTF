@@ -1,0 +1,7 @@
+driver-class=oracle.jdbc.driver.OracleDriver
+driver=jdbc:oracle:thin:
+host-name=@localhost
+port-number=1521
+sid=orcl
+user-name=asad
+password=asad
